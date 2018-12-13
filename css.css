@@ -1,0 +1,15 @@
+h1{
+color:red;
+    font-family: cursive;
+    
+}
+body{
+    text-align: center;
+    color: snow;
+    background-color: black;
+    padding:8px;
+    font-family:cursive;
+    font-size: 15px;
+    margin-top: 95px;
+    margin-right: auto;
+}
